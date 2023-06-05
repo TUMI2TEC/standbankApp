@@ -1,0 +1,10 @@
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\bin\Debug\loveStandardbank.exe.config
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\bin\Debug\loveStandardbank.exe
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\bin\Debug\loveStandardbank.pdb
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.csprojAssemblyReference.cache
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.Form1.resources
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.Properties.Resources.resources
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.csproj.GenerateResource.cache
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.csproj.CoreCompileInputs.cache
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.exe
+C:\Users\TUMISANG\source\repos\loveStandardbank\loveStandardbank\obj\Debug\loveStandardbank.pdb
